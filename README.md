@@ -5,5 +5,5 @@
 </br>
 
 ## Broken Mold Labs
-[BrokenMold.dev](https://brokenmold.dev) - *Homepage*
-[GitHub/brokenmoldlabs](https://github.com/brokenmoldlabs) - *Agency Repo - All private, less this repo*
+[brokenmold.dev](https://brokenmold.dev) - *Homepage* </br>
+[github.com/brokenmoldlabs](https://github.com/brokenmoldlabs) - *Agency Repo* </br>
